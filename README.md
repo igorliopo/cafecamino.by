@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="ru">
 <head>
   <meta charset="utf-8" />
@@ -10,7 +9,7 @@
   <style>
     :root{
       --bg: #fffaf6;
-      --accent: #b04b2c; /* основной цвет */
+      --accent: #262626; /* основной цвет */
       --accent-dark: #8a3923;
       --muted: #6b6b6b;
       --card: #ffffff;
